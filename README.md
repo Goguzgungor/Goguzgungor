@@ -5,10 +5,9 @@
 - 🪙 On the side, interested in **stablecoin + DeFi infrastructure**
 - 📍 Istanbul, Turkey 🇹🇷
 
-### Open source
+### Merged upstream
 
-Deployment hardening for Kubernetes LLM-serving controllers: Pod Security, probes, graceful webhook shutdown.
-
-[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws/pulls?q=is%3Apr+author%3AGoguzgungor) · [kaito-project/kaito](https://github.com/kaito-project/kaito/pulls?q=is%3Apr+author%3AGoguzgungor) · [sgl-project/rbg](https://github.com/sgl-project/rbg/pulls?q=is%3Apr+author%3AGoguzgungor) · [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe/pulls?q=is%3Apr+author%3AGoguzgungor)
+- [lws](https://github.com/kubernetes-sigs/lws/pulls?q=is%3Apr+author%3AGoguzgungor), [kaito](https://github.com/kaito-project/kaito/pulls?q=is%3Apr+author%3AGoguzgungor), [rbg](https://github.com/sgl-project/rbg/pulls?q=is%3Apr+author%3AGoguzgungor): controller deployment fixes
+- [TinyTroupe](https://github.com/microsoft/TinyTroupe/pulls?q=is%3Apr+author%3AGoguzgungor): multi-agent example
 
 <!-- last updated: 2026-11-17 -->
